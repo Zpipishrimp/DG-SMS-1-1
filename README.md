@@ -1,5 +1,6 @@
 # 致谢
 作者：rubyangxg  
+  
 [原链接](https://github.com/rubyangxg/jd-qinglong)
 ## **功能：**
 1. 手机验证码获取X东CK，CK有效期默认一个月 
