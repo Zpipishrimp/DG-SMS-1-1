@@ -55,12 +55,3 @@
 * 新版本安装教程: [INSTALL.md](INSTALL.md)
 * 问题反馈移步: [TG交流群](https://t.me/joinchat/3JfrwNPoHFY2MGNl)
 
-## 多谢
-
-* [青龙面板](https://github.com/whyour/qinglong)
-
-* [docker-selenium](https://github.com/SeleniumHQ/docker-selenium)
-## 支持
-如果觉得我的项目对你小有帮助
-那么下面的微信赞赏码可以扫一扫啦：
-<img src="https://github.com/rubyangxg/jd-qinglong/raw/master/donate/Wechat.png" width="385" height="463" alt="微信小程序"/><br/>
